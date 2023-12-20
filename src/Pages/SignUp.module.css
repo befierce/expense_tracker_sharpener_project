@@ -1,0 +1,27 @@
+
+
+
+.input{
+     width: 70%;
+     /* height: 50%; */
+     height: 10%;
+     border-radius: 8px;
+     /* border: 5px solid black; */
+     margin: 9px;
+     background-color: #ffffff
+}
+
+.form{
+    width: 300px;
+    height: 250px;
+    display: flex;
+    /* border: 5px solid black; */
+    border-radius: 30px;
+    flex-direction: column;
+    margin-top: 180px;
+    justify-content:center ;
+    align-items: center;
+    /* background-color: #b50027; */
+    background-color: #5b0e2d;
+    box-shadow: 1px 2px 3px 2px rgb(171, 119, 245);
+}
